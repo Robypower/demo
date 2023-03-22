@@ -3,3 +3,5 @@
 readme update
 
 more cahanges
+
+Bad idea
